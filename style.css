@@ -1,0 +1,28 @@
+img{
+    max-width: 100%;
+    height: auto;
+}
+h1{
+    position: absolute;
+    top: 20px;
+    left: 36%;
+    color:rgb(140, 97, 181);
+}
+.estudios{
+    position: absolute;
+    top: 70px;
+    left: 575px;
+    color: white;
+}
+.profe{
+    position: absolute;
+    top: 90px;
+    left: 630px;
+    color: white;
+}
+.susodicho{
+    position: absolute;
+    top: 125px;
+    left: 700px;
+    color: white;
+}
